@@ -25,6 +25,38 @@
 
 - ⚡ Fun fact **I used to be a Chef for fine dining establishments in a previous lifetime**
 
+## Skills
+
+### Security Analysis & Monitoring
+* **SIEM/SOAR Analysis:** Splunk, QRadar, Elastic Security
+* **Log Correlation & Analysis:** Windows, Linux, Cloud
+* **Network Traffic Analysis:** Wireshark, Nmap, Tcpdump
+* **Intrusion Detection/Prevention:** Suricata/Snort, Zeek
+
+### Incident Response & Threat Management
+* Incident Handling & Escalation
+* Threat Intelligence Utilization
+* Vulnerability Assessment: Kali Linux, OpenVAS, Nessus
+* Risk Assessment & Mitigation
+* Basic Digital Forensics
+
+### Security Operations & Compliance
+* NIST CSF, MITRE ATT&CK Framework
+* Security Policy Development & Implementation
+* Playbook/Workflow Management & Development
+* Network & Cloud Security (AWS/Azure/GCP)
+* Compliance (ISO 27001, SOC 2)
+
+### Scripting & Automation
+* Python Scripting for Security Tasks
+* PowerShell & Bash Scripting
+* Automation of Log Analysis & Incident Response
+
+### Cloud Security
+* Cloud Platform Security (IAM, Security Groups)
+* Cloud Logging & Monitoring
+* Cloud Security Posture Management (CSPM) 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/juliusjeppelhl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juliusjeppelhl/" height="30" width="40" /></a>
