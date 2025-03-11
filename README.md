@@ -60,6 +60,10 @@
 * Cloud Logging & Monitoring
 * Cloud Security Posture Management (CSPM)
 
+## Projects
+* [Lighthouse Labs Project Space](https://github.com/jhjeppe/lhlproject/blob/main/README.md)
+  A space dedicated to my projects during the lighthouse labs program focused on Specialization in Cybersecurity.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
