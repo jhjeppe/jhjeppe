@@ -16,6 +16,16 @@
 - 📄 Know about my experiences [https://juliuslhl1984.wixsite.com/portfolio?rc=test-site](https://juliuslhl1984.wixsite.com/portfolio?rc=test-site)
 - ⚡ Fun fact **I used to be a Chef for fine dining establishments in a previous lifetime**
 
+## TryHackMe
+
+<img src="https://i.imgur.com/gWAZkJZ.png" alt="Badge 1" width="450"> <img src="https://i.imgur.com/HaECoSl.png" alt="Badge 1" width="450">
+<img src="https://i.imgur.com/bz9lkM0.png" alt="Badge 1" width="450"> <img src="https://i.imgur.com/RtjYDG2.png" alt="Badge 1" width="450"> 
+<img src="https://i.imgur.com/C2Pltmj.png" alt="Badge 1" width="450">
+
+## TryHackMe Progress
+
+<img src="https://i.imgur.com/6vvHyNQ.png" alt="Badge 1" width="750">
+
 ## Skills
 
 ### <i class="fas fa-search"></i> Security Analysis & Monitoring
