@@ -6,62 +6,56 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhjeppe" alt="jhjeppe" /></a> </p>
 
 - 🔭 I’m currently working on [my Cybersecurity Homelab](https://juliuslhl1984.wixsite.com/portfolio?rc=test-site)
-
 - 🌱 I’m currently learning **Python, JavaScript, Linux, and CCNA**
-
 - 👯 I’m looking to collaborate on [Python Scripting Projects](https://juliuslhl1984.wixsite.com/portfolio?rc=test-site)
-
 - 🤝 I’m looking for help with [Transitioning into Cybersecurity](https://juliuslhl1984.wixsite.com/portfolio?rc=test-site)
-
 - 👨‍💻 All of my projects are available at [https://juliuslhl1984.wixsite.com/portfolio?rc=test-site](https://juliuslhl1984.wixsite.com/portfolio?rc=test-site)
-
 - 📝 I regularly write articles on [https://medium.com/@juliuslhl1984](https://medium.com/@juliuslhl1984)
-
 - 💬 Ask me about **my previous experience in Logistics Management**
-
 - 📫 How to reach me **juliuslhl1984@gmail.com**
-
 - 📄 Know about my experiences [https://juliuslhl1984.wixsite.com/portfolio?rc=test-site](https://juliuslhl1984.wixsite.com/portfolio?rc=test-site)
-
 - ⚡ Fun fact **I used to be a Chef for fine dining establishments in a previous lifetime**
 
 ## Skills
 
-### Security Analysis & Monitoring
+### <i class="fas fa-search"></i> Security Analysis & Monitoring
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk Badge">
 * **SIEM/SOAR Analysis:** Splunk, QRadar, Elastic Security
 * **Log Correlation & Analysis:** Windows, Linux, Cloud
 * **Network Traffic Analysis:** Wireshark, Nmap, Tcpdump
 * **Intrusion Detection/Prevention:** Suricata/Snort, Zeek
 
-### Incident Response & Threat Management
+### <i class="fas fa-fire-extinguisher"></i> Incident Response & Threat Management
 * Incident Handling & Escalation
 * Threat Intelligence Utilization
 * Vulnerability Assessment: Kali Linux, OpenVAS, Nessus
 * Risk Assessment & Mitigation
 * Basic Digital Forensics
 
-### Security Operations & Compliance
+### <i class="fas fa-lock"></i> Security Operations & Compliance
 * NIST CSF, MITRE ATT&CK Framework
 * Security Policy Development & Implementation
 * Playbook/Workflow Management & Development
 * Network & Cloud Security (AWS/Azure/GCP)
 * Compliance (ISO 27001, SOC 2)
 
-### Scripting & Automation
+### <i class="fas fa-code"></i> Scripting & Automation
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
 * Python Scripting for Security Tasks
 * PowerShell & Bash Scripting
 * Automation of Log Analysis & Incident Response
 
-### Cloud Security
+### <i class="fas fa-cloud"></i> Cloud Security
 * Cloud Platform Security (IAM, Security Groups)
 * Cloud Logging & Monitoring
-* Cloud Security Posture Management (CSPM) 
+* Cloud Security Posture Management (CSPM)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/juliusjeppelhl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juliusjeppelhl/" height="30" width="40" /></a>
-<a href="https://medium.com/@juliuslhl1984" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@juliuslhl1984" height="30" width="40" /></a>
-<a href="https://discord.gg/julius5013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="julius5013" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/juliusjeppelhl/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juliusjeppelhl/" height="30" width="40" /></a>
+<a href="https://medium.com/@juliuslhl1984" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@juliuslhl1984" height="30" width="40" /></a>
+<a href="https://discord.gg/julius5013" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="julius5013" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -72,3 +66,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhjeppe&show_icons=true&locale=en" alt="jhjeppe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhjeppe&" alt="jhjeppe" /></p>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
