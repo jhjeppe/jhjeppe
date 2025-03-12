@@ -26,6 +26,11 @@
 
 <img src="https://i.imgur.com/6vvHyNQ.png" alt="Badge 1" width="750">
 
+## Certifications
+
+<img src="https://i.imgur.com/zTq4PlT.png" alt="Badge 1" width="750">
+<img src="https://i.imgur.com/dWg1IfH.png" alt="Badge 1" width="750">
+
 ## Skills
 
 ### <i class="fas fa-search"></i> Security Analysis & Monitoring
