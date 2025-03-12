@@ -18,18 +18,19 @@
 
 ## TryHackMe
 
-<img src="https://i.imgur.com/gWAZkJZ.png" alt="Badge 1" width="450"> <img src="https://i.imgur.com/HaECoSl.png" alt="Badge 1" width="450">
-<img src="https://i.imgur.com/bz9lkM0.png" alt="Badge 1" width="450"> <img src="https://i.imgur.com/RtjYDG2.png" alt="Badge 1" width="450"> 
-<img src="https://i.imgur.com/C2Pltmj.png" alt="Badge 1" width="450">
+<img src="https://i.imgur.com/gWAZkJZ.png" alt="Badge 1" width="300"> <img src="https://i.imgur.com/HaECoSl.png" alt="Badge 1" width="300">
+<img src="https://i.imgur.com/bz9lkM0.png" alt="Badge 1" width="300"> <img src="https://i.imgur.com/RtjYDG2.png" alt="Badge 1" width="300"> 
+<img src="https://i.imgur.com/C2Pltmj.png" alt="Badge 1" width="300">
 
 ## TryHackMe Progress
 
-<img src="https://i.imgur.com/6vvHyNQ.png" alt="Badge 1" width="750">
+<img src="https://i.imgur.com/6vvHyNQ.png" alt="Badge 1" width="400">
 
 ## Certifications
 
-<img src="https://i.imgur.com/zTq4PlT.png" alt="Badge 1" width="750">
-<img src="https://i.imgur.com/dWg1IfH.png" alt="Badge 1" width="750">
+<img src="https://i.imgur.com/zTq4PlT.png" alt="Badge 1" width="400">
+<img src="https://i.imgur.com/dWg1IfH.png" alt="Badge 1" width="400">
+<img src="https://i.imgur.com/kRwdvE1.png" alt="Badge 1" width="400">
 
 ## Skills
 
