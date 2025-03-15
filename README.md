@@ -96,8 +96,9 @@
 <div style="border: 2px solid #3498db; border-radius: 10px; padding: 15px; margin-bottom: 20px;">
     <h2 style="color:#3498db">Projects</h2>
     <ul style="list-style-type: none; padding: 0;">
-        <li><a href="https://github.com/jhjeppe/lhlproject/blob/main/README.md" style="color: #2e86c1; text-decoration: none; font-weight: bold;"><i class="fas fa-link"></i> Lighthouse Labs Project Space</a></li>
-        <li>A space dedicated to my projects during the lighthouse labs program focused on Specialization in Cybersecurity.</li>
+        <li><a href="https://cyberjulius.com/lhl-projects" style="color: #2e86c1; text-decoration: none; font-weight: bold;"><i class="fas fa-link"></i> Lighthouse Labs Project Space - A space dedicated to my projects during the lighthouse labs program focused on Specialization in Cybersecurity.</a></li>
+        <li><a href="https://cyberjulius.com/capstone" style="color: #2e86c1; text-decoration: none; font-weight: bold;"><i class="fas fa-link"></i> Capstone Project - My Final Project based on a Company called Premium House Lights.</a></li>
+        <li><a href="https://cyberjulius.com/riipen" style="color: #2e86c1; text-decoration: none; font-weight: bold;"><i class="fas fa-link"></i> Riipen Level up - My project for ABC Academy of Music's HINNA online booking software.</a></li> 
     </ul>
 </div>
 
