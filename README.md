@@ -1,5 +1,6 @@
 <h1 align="center" style="color: #2e86c1; font-family: 'Arial', sans-serif;">Hi 👋, I'm Julius Jeppe</h1>
 <h3 align="center" style="color: #3498db; font-family: 'Helvetica', sans-serif; padding: 10px; border-bottom: 3px solid #2e86c1;">Dedicated cybersecurity professional transitioning from 25 years in management and logistics, with a strong foundation in network security and vulnerability management. Proficient in Nmap, Wireshark, TCPdump, SIEM, and log analysis. Experienced with Kali Linux, server management, and automation scripting (Python, Bash, PowerShell). Familiar with NIST and MITRE ATT&CK frameworks. Holds ISC2 Certified in Cybersecurity and CompTIA Security+ certifications and is actively pursuing advanced certifications.</h3>
+<p><strong><span style="font-family: 'Comic Sans MS', cursive; font-size: 1.5em;">Please check out my website - <a href="http://www.cyberjulius.com">www.cyberjulius.com</a></span></strong></p>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=jhjeppe&label=Profile%20views&color=3498db&style=flat-square" alt="jhjeppe" />
