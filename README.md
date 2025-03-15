@@ -14,15 +14,15 @@
 
 <div style="background-color: #f0f8ff; padding: 20px; border-radius: 10px; margin-top: 20px; margin-bottom: 20px; border: 2px solid #2e86c1;">
 
-- 🔭 I’m currently working on <a href="https://juliuslhl1984.wixsite.com/portfolio?rc=test-site" style="color: #2e86c1; text-decoration: none; font-weight: bold;">my Cybersecurity Homelab</a>
+- 🔭 I’m currently working on <a href="https://cyberjulius.com/homelab" style="color: #2e86c1; text-decoration: none; font-weight: bold;">my Cybersecurity Homelab</a>
 - 🌱 I’m currently learning <strong style="color: #2e86c1;">Python, JavaScript, Linux, and CCNA</strong>
-- 👯 I’m looking to collaborate on <a href="https://juliuslhl1984.wixsite.com/portfolio?rc=test-site" style="color: #2e86c1; text-decoration: none; font-weight: bold;">Python Scripting Projects</a>
-- 🤝 I’m looking for help with <a href="https://juliuslhl1984.wixsite.com/portfolio?rc=test-site" style="color: #2e86c1; text-decoration: none; font-weight: bold;">Transitioning into Cybersecurity</a>
-- 👨‍💻 All of my projects are available at <a href="https://juliuslhl1984.wixsite.com/portfolio?rc=test-site" style="color: #2e86c1; text-decoration: none; font-weight: bold;">my Portfolio</a>
+- 👯 I’m looking to collaborate on <a href="https://cyberjulius.com/portfolio" style="color: #2e86c1; text-decoration: none; font-weight: bold;">Python Scripting Projects</a>
+- 🤝 I’m looking for help with <a href="https://cyberjulius.com/" style="color: #2e86c1; text-decoration: none; font-weight: bold;">Transitioning into Cybersecurity</a>
+- 👨‍💻 All of my projects are available at <a href="https://cyberjulius.com/projects" style="color: #2e86c1; text-decoration: none; font-weight: bold;">my Portfolio</a>
 - 📝 I regularly write articles on <a href="https://medium.com/@juliuslhl1984" style="color: #2e86c1; text-decoration: none; font-weight: bold;">Medium</a>
 - 💬 Ask me about <strong style="color: #2e86c1;">my previous experience in Logistics Management</strong>
 - 📫 How to reach me: <a href="mailto:juliuslhl1984@gmail.com" style="color: #2e86c1; text-decoration: none; font-weight: bold;">juliuslhl1984@gmail.com</a>
-- 📄 Know about my experiences <a href="https://juliuslhl1984.wixsite.com/portfolio?rc=test-site" style="color: #2e86c1; text-decoration: none; font-weight: bold;">here</a>
+- 📄 Know about my experiences <a href="https://cyberjulius.com/blog" style="color: #2e86c1; text-decoration: none; font-weight: bold;">here</a>
 - ⚡ Fun fact: <strong style="color: #2e86c1;">I used to be a Chef for fine dining establishments in a previous lifetime</strong>
 
 </div>
